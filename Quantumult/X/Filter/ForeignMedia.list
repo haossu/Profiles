@@ -44,13 +44,6 @@ DOMAIN-SUFFIX,foxplus.com,ForeignMedia
 DOMAIN-SUFFIX,staticasiafox.akamaized.net,ForeignMedia
 DOMAIN-SUFFIX,theplatform.com,ForeignMedia
 DOMAIN-SUFFIX,uplynk.com,ForeignMedia
-# > HBO Now & HBO GO
-USER-AGENT,HBO%20NOW*,ForeignMedia
-DOMAIN-SUFFIX,hbo.com,ForeignMedia
-DOMAIN-SUFFIX,hbogo.com,ForeignMedia
-DOMAIN-SUFFIX,hboasia.com,ForeignMedia
-DOMAIN-SUFFIX,hbogo.com,ForeignMedia
-DOMAIN-SUFFIX,hbogoasia.hk,ForeignMedia
 # > Hulu
 DOMAIN-SUFFIX,hulu.com,ForeignMedia
 DOMAIN-SUFFIX,huluim.com,ForeignMedia
@@ -75,15 +68,7 @@ DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,ForeignMedia
 USER-AGENT,mytv*,ForeignMedia
 DOMAIN-SUFFIX,mytvsuper.com,ForeignMedia
 DOMAIN-SUFFIX,tvb.com,ForeignMedia
-# > Netflix
-USER-AGENT,Argo*,ForeignMedia
-DOMAIN-SUFFIX,netflix.com,ForeignMedia
-DOMAIN-SUFFIX,netflix.net,ForeignMedia
-DOMAIN-SUFFIX,nflxext.com,ForeignMedia
-DOMAIN-SUFFIX,nflximg.com,ForeignMedia
-DOMAIN-SUFFIX,nflximg.net,ForeignMedia
-DOMAIN-SUFFIX,nflxso.net,ForeignMedia
-DOMAIN-SUFFIX,nflxvideo.net,ForeignMedia
+
 # > PBS
 USER-AGENT,PBS*,ForeignMedia
 DOMAIN-SUFFIX,pbs.org,ForeignMedia
@@ -98,12 +83,7 @@ DOMAIN-SUFFIX,ttvnw.net,ForeignMedia
 USER-AGENT,ViuTV*,ForeignMedia
 DOMAIN-SUFFIX,viu.tv,ForeignMedia
 DOMAIN,api.viu.now.com,ForeignMedia
-# > Youtube
-USER-AGENT,com.google.ios.youtube*,ForeignMedia
-USER-AGENT,YouTube*,ForeignMedia
-DOMAIN-SUFFIX,googlevideo.com,ForeignMedia
-DOMAIN-SUFFIX,youtube.com,ForeignMedia
-DOMAIN,youtubei.googleapis.com,ForeignMedia
+
 
 # (Music)
 # > Deezer
@@ -121,12 +101,6 @@ DOMAIN-SUFFIX,joox.com,ForeignMedia
 # > Pandora
 USER-AGENT,Pandora*,ForeignMedia
 DOMAIN-SUFFIX,pandora.com,ForeignMedia
-# > Spotify
-USER-AGENT,Spotify*,ForeignMedia
-DOMAIN-SUFFIX,pscdn.co,ForeignMedia
-DOMAIN-SUFFIX,scdn.co,ForeignMedia
-DOMAIN-SUFFIX,spotify.com,ForeignMedia
-DOMAIN-SUFFIX,spoti.fi,ForeignMedia
 # > TIDAL
 USER-AGENT,TIDAL*,ForeignMedia
 DOMAIN-SUFFIX,tidal.com,ForeignMedia

@@ -1,0 +1,7 @@
+# > HBO Now & HBO GO
+USER-AGENT,HBO%20NOW*,ForeignMedia
+DOMAIN-SUFFIX,hbo.com,ForeignMedia
+DOMAIN-SUFFIX,hbogo.com,ForeignMedia
+DOMAIN-SUFFIX,hboasia.com,ForeignMedia
+DOMAIN-SUFFIX,hbogo.com,ForeignMedia
+DOMAIN-SUFFIX,hbogoasia.hk,ForeignMedia
